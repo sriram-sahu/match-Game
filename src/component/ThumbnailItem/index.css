@@ -1,0 +1,17 @@
+.thumbnail-btn {
+  background-color: transparent;
+  border-style: none;
+  margin: 3px;
+}
+
+.thumbnail {
+  height: 100px;
+  width: 100px;
+}
+
+@media (max-width: 992px) {
+  .thumbnail {
+    height: 80px;
+    width: 80px;
+  }
+}

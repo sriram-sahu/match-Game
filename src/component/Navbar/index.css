@@ -1,0 +1,37 @@
+.navbar-container {
+  display: flex;
+  flex-direction: row;
+  padding: 4px;
+  justify-content: space-between;
+  background-color: #2c0e3a;
+}
+
+.sub-container {
+  display: flex;
+  flex-direction: row;
+}
+
+.para {
+  font-family: 'Roboto';
+  font-weight: bold;
+  font-size: 26px;
+  color: #ffffff;
+  margin: 3px;
+}
+.span-ele {
+  font-family: 'Roboto';
+  font-weight: bold;
+  font-size: 26px;
+  color: #fec653;
+  margin: 3px;
+}
+.logo {
+  height: 20%;
+  width: 30%;
+  margin: 3px;
+}
+.timer {
+  height: 25px;
+  width: 25px;
+  margin: 3px;
+}
